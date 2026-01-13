@@ -8,8 +8,10 @@
 
 You can say:
 - **"Alexa, open Life Dua"** – to launch the skill
-- **"Alexa, ask Life dua to play morning dua"** – to listen to the morning adhkar
-- **"Alexa, ask Life dua to play evening dua"** – to listen to the evening adhkar
+- **"Alexa, ask Life dua to play morning dua"** – to listen to the morning adhkar by Omar Hisham
+- **"Alexa, ask Life dua to play evening dua"** – to listen to the evening adhkar by Omar Hisham
+- **"Alexa, ask Life Dua to play suratul duha"** – to listen to the morning adhkar
+- **"Alexa, ask Life Dua to play nasfat prayer"** – to listen to the evening adhkar
 - **"Pause"** or **"Stop"** – to pause the audio
 - **"Resume"** – to continue (starts from beginning for now)
 
